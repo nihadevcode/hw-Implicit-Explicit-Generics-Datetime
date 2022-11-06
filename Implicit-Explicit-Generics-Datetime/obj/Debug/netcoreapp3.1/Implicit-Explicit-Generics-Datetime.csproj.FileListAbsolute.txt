@@ -1,0 +1,14 @@
+C:\Users\Nihad\Desktop\Visual Studio\Homework\Implicit-Explicit-Generics-Datetime\Implicit-Explicit-Generics-Datetime\obj\Debug\netcoreapp3.1\Implicit-Explicit-Generics-Datetime.csproj.AssemblyReference.cache
+C:\Users\Nihad\Desktop\Visual Studio\Homework\Implicit-Explicit-Generics-Datetime\Implicit-Explicit-Generics-Datetime\obj\Debug\netcoreapp3.1\Implicit-Explicit-Generics-Datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nihad\Desktop\Visual Studio\Homework\Implicit-Explicit-Generics-Datetime\Implicit-Explicit-Generics-Datetime\obj\Debug\netcoreapp3.1\Implicit-Explicit-Generics-Datetime.AssemblyInfoInputs.cache
+C:\Users\Nihad\Desktop\Visual Studio\Homework\Implicit-Explicit-Generics-Datetime\Implicit-Explicit-Generics-Datetime\obj\Debug\netcoreapp3.1\Implicit-Explicit-Generics-Datetime.AssemblyInfo.cs
+C:\Users\Nihad\Desktop\Visual Studio\Homework\Implicit-Explicit-Generics-Datetime\Implicit-Explicit-Generics-Datetime\obj\Debug\netcoreapp3.1\Implicit-Explicit-Generics-Datetime.csproj.CoreCompileInputs.cache
+C:\Users\Nihad\Desktop\Visual Studio\Homework\Implicit-Explicit-Generics-Datetime\Implicit-Explicit-Generics-Datetime\bin\Debug\netcoreapp3.1\Implicit-Explicit-Generics-Datetime.exe
+C:\Users\Nihad\Desktop\Visual Studio\Homework\Implicit-Explicit-Generics-Datetime\Implicit-Explicit-Generics-Datetime\bin\Debug\netcoreapp3.1\Implicit-Explicit-Generics-Datetime.deps.json
+C:\Users\Nihad\Desktop\Visual Studio\Homework\Implicit-Explicit-Generics-Datetime\Implicit-Explicit-Generics-Datetime\bin\Debug\netcoreapp3.1\Implicit-Explicit-Generics-Datetime.runtimeconfig.json
+C:\Users\Nihad\Desktop\Visual Studio\Homework\Implicit-Explicit-Generics-Datetime\Implicit-Explicit-Generics-Datetime\bin\Debug\netcoreapp3.1\Implicit-Explicit-Generics-Datetime.runtimeconfig.dev.json
+C:\Users\Nihad\Desktop\Visual Studio\Homework\Implicit-Explicit-Generics-Datetime\Implicit-Explicit-Generics-Datetime\bin\Debug\netcoreapp3.1\Implicit-Explicit-Generics-Datetime.dll
+C:\Users\Nihad\Desktop\Visual Studio\Homework\Implicit-Explicit-Generics-Datetime\Implicit-Explicit-Generics-Datetime\bin\Debug\netcoreapp3.1\Implicit-Explicit-Generics-Datetime.pdb
+C:\Users\Nihad\Desktop\Visual Studio\Homework\Implicit-Explicit-Generics-Datetime\Implicit-Explicit-Generics-Datetime\obj\Debug\netcoreapp3.1\Implicit-Explicit-Generics-Datetime.dll
+C:\Users\Nihad\Desktop\Visual Studio\Homework\Implicit-Explicit-Generics-Datetime\Implicit-Explicit-Generics-Datetime\obj\Debug\netcoreapp3.1\Implicit-Explicit-Generics-Datetime.pdb
+C:\Users\Nihad\Desktop\Visual Studio\Homework\Implicit-Explicit-Generics-Datetime\Implicit-Explicit-Generics-Datetime\obj\Debug\netcoreapp3.1\Implicit-Explicit-Generics-Datetime.genruntimeconfig.cache
